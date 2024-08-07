@@ -173,7 +173,8 @@ a:visited {
     }
 
     .container__imagem{
-        width: 50vh; 
+        width: 50vh;
+        margin-left: -10px; 
     }
 
     .container__caixa{
@@ -204,6 +205,10 @@ a:visited {
 
     .rodape__lista{
         display: block;
+    }
+
+    .dispositivos__titulo{
+        margin-top: -105px;
     }
 }
 
